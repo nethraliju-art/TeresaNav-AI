@@ -1,0 +1,17 @@
+{
+  "title": "Campus Navigator",
+  "description": "AI-powered campus navigation and chatbot for students, teachers, and visitors",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.ico"
+  },
+  "openGraph": {
+    "image": "/og-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
